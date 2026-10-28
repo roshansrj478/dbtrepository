@@ -1,0 +1,1 @@
+select id, concat(first_name,'-',last_name) as ename from dev_db.bronze.employee
